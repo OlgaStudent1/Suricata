@@ -19,7 +19,8 @@
 
 Лог Сурикаты:  ![alt text](https://github.com/OlgaStudent1/Suricata/blob/main/img/%D0%B0%D1%82%D0%B0%D0%BA%D0%B0_4_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0.png)
  
- Fail2ban: (https://github.com/OlgaStudent1/Suricata/blob/main/img/%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81.png)
+ Fail2ban: ![alt text](https://github.com/OlgaStudent1/Suricata/blob/main/img/%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81.png)
+ 
 
 ### Выводы по заданию 1: 
 Suricata видит сканирование Nmap. Она записала его в eve.json, а не в fast.log.
